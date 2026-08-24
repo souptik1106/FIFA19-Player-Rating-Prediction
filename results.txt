@@ -1,0 +1,3 @@
+r2 score: 0.9292159931565328
+RMSE: 1.816552765612765
+Train rows: 14517, Test rows: 3630, Features: 54
